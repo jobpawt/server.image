@@ -1,7 +1,7 @@
 const express = require('express');
 const multer = require('multer');
 const fs = require('fs');
-const cors = requrie('cors');
+const cors = require('cors');
 const dotenv = require('dotenv');
 
 const app = express();
